@@ -8,11 +8,8 @@ ___Здесь будет вестись прогресс, чтобы потом 
 
 23.09 Были припаяны пины к плате esp32-c3 и модулю положения GY-91, начат поиск плоского электродвигателя для реализации механики
 
-<img width="240" height="320" alt="image" src="Photos/Детали, которые были в начале.jpg" />
-<img width="240" height="320" alt="image" src="Photos/Акселерометр в упаковке.jpg" />
-<img width="240" height="320" alt="image" src="Photos/Пайка пинов на esp32-c3.jpg" />
-<img width="240" height="320" alt="image" src="Photos/Результат пайки пинов на esp32-c3.jpg" />
-
+|<img width="240" height="320" alt="image" src="Photos/Детали, которые были в начале.jpg" /> | <img width="240" height="320" alt="image" src="Photos/Акселерометр в упаковке.jpg" />
+| <img width="240" height="320" alt="image" src="Photos/Пайка пинов на esp32-c3.jpg" /> | <img width="240" height="320" alt="image" src="Photos/Результат пайки пинов на esp32-c3.jpg" />
 
 ### Неделя 29.09 - 5.10
 30.09 Начата сборка схемы и проверка работоспособности датчиков
