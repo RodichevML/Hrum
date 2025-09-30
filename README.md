@@ -3,4 +3,4 @@
 
 ___Здесь будет вестись прогресс, чтобы потом удобно было оследить историю___
 
-<img width="960" height="1280" alt="image" src="https://github.com/RodichevML/Hrum/Photos/Детали, которые были в начале.jpg" />
+<img width="960" height="1280" alt="image" src="Photos/Детали, которые были в начале.jpg" />
